@@ -6,5 +6,10 @@ Planilha criada no Excel para o controle e planejamento financeiro utilizando ta
 
 ## Conceitos utilizados
 
+- Criação de dashboards em Excel
 - Fórmulas DAX e programação em código M para tratamento dos Dados.
 - Tabélas dinãmicas e fromatação Condicional.
+
+## Funcionamento
+
+O usuário pode filtrara os por mês ou ano as informaçoes a serem exibidas no dashboard, bem como inserir novos valores na haba *dados*, que serão atualizados de forma atomática nas tabelas dinâmicas.

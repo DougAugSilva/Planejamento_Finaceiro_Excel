@@ -1,0 +1,130 @@
+Conta,Data,Descrição,Débito (Gasto),Crédito (Renda),Renda/(Despesa),Subcategoria,Categoria,Tipo de Categoria
+Poupança,01/01/2025,Juros,,35.00,35.00,Juros Ganhos,Variável,Renda
+Corrente,01/01/2025,Transferência para Poupança,100.00,,-100.00,Transferência Bancária,Transferência,Não Reportado
+Poupança,01/01/2025,Renda Extra,,2057.00,2057.00,Renda Extra,Variável,Renda
+Corrente,04/01/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Crédito,04/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,05/01/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/01/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,05/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,06/01/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,07/01/2025,Verde's,156.00,,-156.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,08/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,09/01/2025,Ponto do Sushi,48.00,,-48.00,Restaurante,Restaurante,Despesa
+Corrente,10/01/2025,Pagamento de Boleto,57.00,,-57.00,Contas de Utilidade,Despesas de Moradia,Despesa
+Crédito,12/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,14/01/2025,Transferência para Poupança,200.00,,-200.00,Transferência Bancária,Transferência,Não Reportado
+Crédito,15/01/2025,Posto de Comb.,85.00,,-85.00,Combustível,Transporte,Despesa
+Crédito,15/01/2025,Verde's,97.00,,-97.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,16/01/2025,Ponto do Sushi,48.00,,-48.00,Restaurante,Restaurante,Despesa
+Crédito,19/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,22/01/2025,Verde's,135.00,,-135.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,25/01/2025,Livraria,25.00,,-25.00,Livros,Discricionário,Despesa
+Crédito,26/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,27/01/2025,Posto de Comb.,72.00,,-72.00,Combustível,Transporte,Despesa
+Crédito,28/01/2025,Verde's,142.00,,-142.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,29/01/2025,Ponto do Sushi,48.00,,-48.00,Restaurante,Restaurante,Despesa
+Crédito,30/01/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,31/01/2025,Transferência para Poupança,200.00,,-200.00,Transferência Bancária,Transferência,Não Reportado
+Poupança,01/02/2025,Juros,,38.00,38.00,Juros Ganhos,Variável,Renda
+Corrente,04/02/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,04/03/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/03/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/03/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/03/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,08/03/2025,Verde's,162.00,,-162.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,12/03/2025,Posto de Comb.,88.00,,-88.00,Combustível,Transporte,Despesa
+Crédito,15/03/2025,Farmácia BemEstar,95.50,,-95.50,Despesas Médicas,Saúde,Despesa
+Crédito,20/03/2025,Ponto do Sushi,55.00,,-55.00,Restaurante,Restaurante,Despesa
+Crédito,25/03/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,31/03/2025,Transferência para Poupança,250.00,,-250.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/04/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/04/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/04/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/04/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,07/04/2025,Verde's,140.00,,-140.00,Supermercado,Despesas de Moradia,Despesa
+Corrente,10/04/2025,Pagamento de Boleto,88.00,,-88.00,Contas de Utilidade,Despesas de Moradia,Despesa
+Crédito,15/04/2025,Ponto do Sushi,68.00,,-68.00,Restaurante,Restaurante,Despesa
+Crédito,21/04/2025,Posto de Comb.,92.00,,-92.00,Combustível,Transporte,Despesa
+Crédito,26/04/2025,Livraria,45.00,,-45.00,Livros,Discricionário,Despesa
+Corrente,30/04/2025,Transferência para Poupança,250.00,,-250.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/05/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/05/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/05/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/05/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,09/05/2025,Verde's,210.00,,-210.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,14/05/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,19/05/2025,Ponto do Sushi,48.00,,-48.00,Restaurante,Restaurante,Despesa
+Crédito,23/05/2025,Posto de Comb.,85.00,,-85.00,Combustível,Transporte,Despesa
+Crédito,28/05/2025,Loja de Roupas,180.00,,-180.00,Vestuário,Discricionário,Despesa
+Corrente,31/05/2025,Transferência para Poupança,300.00,,-300.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/06/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/06/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/06/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/06/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,10/06/2025,Verde's,130.00,,-130.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,15/06/2025,Consulta Dr. Silva,250.00,,-250.00,Despesas Médicas,Saúde,Despesa
+Crédito,20/06/2025,Ponto do Sushi,75.00,,-75.00,Restaurante,Restaurante,Despesa
+Crédito,25/06/2025,Posto de Comb.,95.00,,-95.00,Combustível,Transporte,Despesa
+Crédito,28/06/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,30/06/2025,Transferência para Poupança,250.00,,-250.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/07/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/07/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/07/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/07/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,08/07/2025,Verde's,195.00,,-195.00,Supermercado,Despesas de Moradia,Despesa
+Corrente,11/07/2025,Pagamento de Boleto,125.00,,-125.00,Contas de Utilidade,Despesas de Moradia,Despesa
+Crédito,16/07/2025,Posto de Comb.,80.00,,-80.00,Combustível,Transporte,Despesa
+Crédito,22/07/2025,Ponto do Sushi,60.00,,-60.00,Restaurante,Restaurante,Despesa
+Crédito,27/07/2025,Livraria,35.00,,-35.00,Livros,Discricionário,Despesa
+Corrente,31/07/2025,Transferência para Poupança,300.00,,-300.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/08/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/08/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/08/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/08/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,10/08/2025,Verde's,155.00,,-155.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,14/08/2025,Farmácia BemEstar,75.00,,-75.00,Despesas Médicas,Saúde,Despesa
+Crédito,18/08/2025,Posto de Comb.,90.00,,-90.00,Combustível,Transporte,Despesa
+Crédito,24/08/2025,Ponto do Sushi,50.00,,-50.00,Restaurante,Restaurante,Despesa
+Crédito,28/08/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Corrente,31/08/2025,Transferência para Poupança,200.00,,-200.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/09/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/09/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/09/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/09/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,09/09/2025,Verde's,180.00,,-180.00,Supermercado,Despesas de Moradia,Despesa
+Corrente,12/09/2025,Pagamento de Boleto,95.00,,-95.00,Contas de Utilidade,Despesas de Moradia,Despesa
+Crédito,17/09/2025,Posto de Comb.,85.00,,-85.00,Combustível,Transporte,Despesa
+Crédito,22/09/2025,Ponto do Sushi,65.00,,-65.00,Restaurante,Restaurante,Despesa
+Crédito,26/09/2025,Livraria,50.00,,-50.00,Livros,Discricionário,Despesa
+Corrente,30/09/2025,Transferência para Poupança,250.00,,-250.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/10/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/10/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/10/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/10/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,10/10/2025,Verde's,220.00,,-220.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,15/10/2025,Exames Laboratoriais,350.00,,-350.00,Despesas Médicas,Saúde,Despesa
+Crédito,20/10/2025,Posto de Comb.,95.00,,-95.00,Combustível,Transporte,Despesa
+Crédito,25/10/2025,Ponto do Sushi,80.00,,-80.00,Restaurante,Restaurante,Despesa
+Crédito,29/10/2025,Loja de Roupas,250.00,,-250.00,Vestuário,Discricionário,Despesa
+Corrente,31/10/2025,Transferência para Poupança,300.00,,-300.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/11/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/11/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/11/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/11/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,08/11/2025,Verde's,170.00,,-170.00,Supermercado,Despesas de Moradia,Despesa
+Crédito,13/11/2025,Posto de Comb.,80.00,,-80.00,Combustível,Transporte,Despesa
+Crédito,18/11/2025,Ponto do Sushi,55.00,,-55.00,Restaurante,Restaurante,Despesa
+Crédito,24/11/2025,Ground,5.00,,-5.00,Café,Restaurante,Despesa
+Crédito,28/11/2025,Farmácia BemEstar,60.00,,-60.00,Despesas Médicas,Saúde,Despesa
+Corrente,30/11/2025,Transferência para Poupança,200.00,,-200.00,Transferência Bancária,Transferência,Não Reportado
+Corrente,04/12/2025,ACME Pty Ltd,,4000.00,4000.00,Salário,Fixo,Renda
+Corrente,05/12/2025,Adm. Imóveis,900.00,,-900.00,Aluguel,Despesas de Moradia,Despesa
+Corrente,05/12/2025,Financeira,150.00,,-150.00,Pagamento de Empréstimo,Pagamento de Dívida,Despesa
+Crédito,06/12/2025,Academia,79.00,,-79.00,Academia,Saúde,Despesa
+Crédito,10/12/2025,Verde's,250.00,,-250.00,Supermercado,Despesas de Moradia,Despesa
+Corrente,15/12/2025,Pagamento de Boleto,150.00,,-150.00,Contas de Utilidade,Despesas de Moradia,Despesa
+Crédito,20/12/2025,Ponto do Sushi,120.00,,-120.00,Restaurante,Restaurante,Despesa
+Crédito,24/12/2025,Presentes de Natal,300.00,,-300.00,Presentes,Discricionário,Despesa
+Crédito,28/12/2025,Posto de Comb.,100.00,,-100.00,Combustível,Transporte,Despesa
+Corrente,31/12/2025,Transferência para Poupança,350.00,,-350.00,Transferência Bancária,Transferência,Não Reportado
